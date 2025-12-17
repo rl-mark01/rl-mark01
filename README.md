@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**rl-mark01/rl-mark01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+Industrial & Management Engineering student  
+Interested in Quality Control, Data Analysis, and Optimization
 
-Here are some ideas to get you started:
+## 📌 Featured Project
+### 🚲 Incheon Bike Map
+- Urban data visualization using Python & Folium
+- Identified spatial imbalance in bike infrastructure
+- [View Project](https://github.com/rl-mark01/incheon-bike-map)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python (pandas, numpy)
+- Data visualization
+- Basic SPC / Statistical Analysis
