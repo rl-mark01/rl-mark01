@@ -21,6 +21,13 @@ Interested in Quality Control, Data Analysis, and Optimization
 - Learned adaptive restocking and selling policies through interaction
 - [View Project](https://github.com/rl-mark01/inventory-management-optimization_by-Q-Learning)
 
+### 🏭 Electric Vehicle Production System Optimization (Arena Simulation)
+- Built a baseline discrete-event simulation model using Arena
+- Identified bottlenecks in the production system
+- Optimized system performance by increasing equipment and workforce
+- Compared baseline vs optimized models using throughput, waiting time, and WIP
+- [View Project](https://github.com/rl-mark01/Electric-Vehicle-Production-System-Optimization-using-Arena-Simulation)
+ 
 ## 🛠 Skills
 - Python (pandas, numpy)
 - R (time series analysis, ARIMA, GARCH)
