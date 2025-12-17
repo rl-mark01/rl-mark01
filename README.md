@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 About Me
 Industrial & Management Engineering student  
 Interested in Quality Control, Data Analysis, and Optimization
