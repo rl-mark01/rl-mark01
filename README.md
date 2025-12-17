@@ -16,6 +16,13 @@ Interested in Quality Control, Data Analysis, and Optimization
 - Volatility modeling with ARIMA–GARCH(1,1)
 - [View Project](https://github.com/rl-mark01/lithium-time-series-arima-garch)
 
+### 🤖 Inventory Management Optimization (Q-Learning)
+- Reinforcement learning–based inventory control using tabular Q-Learning
+- Custom Gymnasium environment modeling inventory, demand, and price uncertainty
+- Reward design to penalize stockouts and overstocking
+- Learned adaptive restocking and selling policies through interaction
+- [View Project](https://github.com/rl-mark01/inventory-management-optimization_by-Q-Learning)
+
 ## 🛠 Skills
 - Python (pandas, numpy)
 - R (time series analysis, ARIMA, GARCH)
