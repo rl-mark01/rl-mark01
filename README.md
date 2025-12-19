@@ -29,6 +29,12 @@ Interested in Quality Control, Data Analysis, and Optimization
 - Compared baseline vs optimized models using throughput, waiting time, and WIP
 - [View Project](https://github.com/rl-mark01/Electric-Vehicle-Production-System-Optimization-using-Arena-Simulation)
 
+### 📊 Financial Portfolio Optimization (Linear Programming)
+- Asset allocation strategy using Linear Programming (LP)
+- Designed investor-type-specific portfolios (Conservative / Neutral / Aggressive)
+- Maximized after-tax returns under volatility and maximum drawdown (MDD) constraints
+- Implemented using Python and IBM DOcplex (CPLEX)
+- [View Project](https://github.com/rl-mark01/Financial-Portfolio-Optimization-Using-Linear-Programming)
  
 ## 🛠 Skills
 - Python (pandas, numpy)
